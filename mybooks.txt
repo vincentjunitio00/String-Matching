@@ -1,0 +1,13 @@
+AI and Medicine. 
+Artificial Intelligence Now. 
+Evaluating Machine Learning Models. 
+Fast Data. 
+Going Pro in Data Science. 
+Introduction to Machine Learning with Python. 
+Mapping Big Data. 
+Migrating Big Data Analytics into the Cloud. 
+Practical Artificial Intelligence in the Cloud. 
+The Future of Machine Intelligence.
+The New Artificial Intelligence Market.
+What is Artificial Intelligence.
+What is Data Science.
